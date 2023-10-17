@@ -1,0 +1,45 @@
+[
+    {
+      "event": "Weddings",
+      "id": 1,
+      "img": "https://i.ibb.co/6gSDFr5/Wedding.jpg",
+      "price": 750,
+      "description": "Our expert event management team specializes in creating memorable weddings that exceed your expectations. We handle every detail, from venue selection to decor and catering, ensuring your special day is stress-free and unforgettable."
+    },
+    {
+      "event": "Birthday Parties",
+      "id": 2,
+      "img": "https://i.ibb.co/DVH0tvR/Birthday.jpg",
+      "price": 600,
+      "description": "Let us plan your next birthday party with creativity and flair. We offer customized party themes, entertainment, and delicious cakes to make your celebration truly special."
+    },
+    {
+      "event": "Anniversaries",
+      "id": 3,
+      "img": "https://i.ibb.co/rbmKLyK/Anniversaries.jpg",
+      "price": 850,
+      "description": "Celebrate your love story with a beautifully orchestrated anniversary event. Our team ensures a romantic ambiance, thoughtful surprises, and exquisite dining experiences to mark this milestone."
+    },
+    {
+      "event": "Engagement Parties",
+      "id": 4,
+      "img": "https://i.ibb.co/9wxXLhd/Engagement.jpg",
+      "price": 700,
+      "description": "Announce your engagement in style with a well-planned engagement party. We create an atmosphere of joy and love, complete with decorations, music, and entertainment that reflects your unique journey together."
+    },
+    {
+      "event": "Retirement Parties",
+      "id": 5,
+      "img": "https://i.ibb.co/r2JtK40/Retirement.jpg",
+      "price": 900,
+      "description": "Celebrate a fulfilling career and a new chapter in life with a retirement party that honors the retiree's accomplishments. Our team organizes heartfelt tributes, entertainment, and catering to make it a memorable event."
+    },
+    {
+      "event": "Baby Shower",
+      "id": 6,
+      "img": "https://i.ibb.co/tx6r9nL/Baby.jpg",
+      "price": 550,
+      "description": "Expecting a new addition to the family? Let us plan a charming baby shower that reflects your joy and excitement. We provide delightful themes, games, and decorations to welcome your bundle of joy."
+    }
+  ]
+  

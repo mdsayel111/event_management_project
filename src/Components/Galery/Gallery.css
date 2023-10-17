@@ -1,0 +1,14 @@
+.img-container img{
+    height: 170px;
+    width: 100%;
+}
+
+.gallery .container {
+    position: relative;
+}
+  
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
